@@ -1,6 +1,6 @@
 # Applitools Example: Selenium JavaScript Jest with the Classic Runner
 
-This is the example project for the [Selenium JavaScript Jest tutorial](https://applitools.com/tutorials/jest-selenium-javascript.html).
+This is the example project for the [Selenium JavaScript Jest tutorial](https://applitools.com/tutorials/quickstart/web/selenium/javascript/jest).
 It shows how to start automating visual tests
 with the [Applitools Eyes](https://applitools.com/platform/eyes/) Classic runner
 using [Selenium WebDriver](https://www.selenium.dev/) in JavaScript.
@@ -31,7 +31,7 @@ npm install
 The main test case is [`acme-bank.test.js`](test/acme-bank.test.js).
 
 To execute tests, set the `APPLITOOLS_API_KEY` environment variable
-to your [account's API key](https://applitools.com/tutorials/getting-started/setting-up-your-environment.html),
+to your [account's API key](https://applitools.com/tutorials/guides/getting-started/registering-an-account),
 and then run:
 
 ```
@@ -39,4 +39,4 @@ npm test
 ```
 
 **For full instructions on running this project, take our
-[Selenium JavaScript Jest tutorial](https://applitools.com/tutorials/jest-selenium-javascript.html)!**
+[Selenium JavaScript Jest tutorial](https://applitools.com/tutorials/quickstart/web/selenium/javascript/jest)!**
